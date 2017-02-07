@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nera Kanakku</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_clear">Clear Tasks</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="timer_scheduling">Timer Scheduling</string>
+    <string name="action_summary">Task Summary</string>
+</resources>
